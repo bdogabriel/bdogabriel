@@ -7,7 +7,7 @@
 I am an undergraduate Computer Science student at the **University of São Paulo**. C, C++, PHP, Javascript, HTML, and SQL are the programming languages I'm better at. I like to learn and build great things I would like to use myself. I also want to make tools that can help people in any way.
 <br><br>
 
-![Other](https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=650&height=50&lines=CS+Undergraduate;Open+Source+Enthusiast;Linux+Distro+Hopper;Vi+Keybindings+Additc;Fighting+Game+Lover)
+![Other](https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=550%&height=50%&lines=CS+Undergraduate;Open+Source+Enthusiast;Linux+Distro+Hopper;Vi+Keybindings+Additc;Fighting+Game+Lover)
 ## ***Skills***
 ### Languages
 ![Languages](https://skillicons.dev/icons?i=c,cpp,java,py,bash,php,js,html,css,regex)
