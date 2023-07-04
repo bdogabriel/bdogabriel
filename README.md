@@ -1,5 +1,5 @@
 # Hi There! Gabriel here :)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bdogabriel.repoName) [![GitHub followers](https://img.shields.io/github/followers/bdogabriel.svg?style=social&label=Follow)](https://github.com/bdogabriel?tab=followers)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bdogabriel.repoName) [![GitHub followers](https://img.shields.io/github/followers/bdogabriel.svg?style=social&label=Follow)](https://github.com/bdogabriel?tab=followers)
 
 <img align="right" width=250px alt="Linux Penguin Coding" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" alt="Linux Penguin Coding"/>
 
