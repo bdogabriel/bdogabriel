@@ -1,11 +1,10 @@
-<img align="left" width=10% alt="Linux Penguin Coding" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" alt="Linux Penguin Coding"/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Other](https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=30&width=500%&lines=Hello+World!+Gabriel+Here+:&rpar;;CS+Undergraduate;Open+Source+Enthusiast;Linux+Distro+Hopper;Vi+Keybindings+Additc)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div>
+  
+![Other](https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=30&lines=Hello!+Gabriel+Here+:&rpar;;CS+Undergraduate;Open+Source+Enthusiast;Linux+Distro+Hopper)
+<br>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bdogabriel.repoName)
 [![GitHub followers](https://img.shields.io/github/followers/bdogabriel.svg?style=social&label=Follow)](https://github.com/bdogabriel?tab=followers)
-<br><br>
+</div>
 
 ## ***About Me*** 
 I am an undergraduate Computer Science student at the **University of São Paulo**. C, C++, PHP, Javascript, HTML, and SQL are the programming languages I'm better at. I like to learn and build great things I would like to use myself. I also want to make tools that help people in any way, and I am always eager to learn.
