@@ -20,7 +20,7 @@ I have experience with projects using many different programming languages and t
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=linux,git,github,gitlab,docker,postgres,cmake,arduino,figma,bootstrap)
+![Tools](https://skillicons.dev/icons?i=linux,git,github,gitlab,docker,postgres,mongodb,cmake,arduino,figma,bootstrap)
 
 ### Stats
 
