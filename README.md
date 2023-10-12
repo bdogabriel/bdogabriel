@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am an undergraduate Computer Science student at the **University of São Paulo**. C, C++, PHP, Javascript, HTML, and SQL are the programming languages I'm better at. I like to learn and build great things I would like to use myself. I also want to make tools that help people in any way, and I am always eager to learn.
+I am an undergraduate Computer Science student at the **University of São Paulo**. I have experience with many programming languages and tools including C, C++, PHP, Javascript, HTML, and SQL. I like to learn and build things I would like to use myself. I also want to make tools that help people in any way, and I am always eager to learn.
 
 ## Skills
 
@@ -20,7 +20,7 @@ I have experience with projects using many different programming languages and t
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=linux,git,github,gitlab,docker,postgres,mongodb,cmake,arduino,figma,bootstrap)
+![Tools](https://skillicons.dev/icons?i=linux,docker,postgres,react)
 
 ### Stats
 
