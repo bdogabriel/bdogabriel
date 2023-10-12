@@ -16,7 +16,7 @@ I have experience with projects using many different programming languages and t
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=c,cpp,java,py,bash,php,js,html,css)
+![Languages](https://skillicons.dev/icons?i=c,cpp,java,py,php,js,ts,html,css)
 
 ### Tools
 
