@@ -1,6 +1,6 @@
 <div>
   
-![Other](https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=30&lines=Hello!+Gabriel+Here+:&rpar;;CS+Undergraduate;Open+Source+Enthusiast;Linux+Distro+Hopper)
+![Other](https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=30&lines=Hello!+Gabriel+Here+:&rpar;;CS+Undergraduate;Linux+Distro+Hopper)
 <br>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bdogabriel.repoName)
 [![GitHub followers](https://img.shields.io/github/followers/bdogabriel.svg?style=social&label=Follow)](https://github.com/bdogabriel?tab=followers)
