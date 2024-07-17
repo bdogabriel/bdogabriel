@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am a Computer Science student at the **University of São Paulo**. I have experience with many programming languages and tools including **C, C++, Java, Python, Javascript (and Typescript), HTML, CSS, SQL and React**. I like to learn and build things I would like to use myself. I also want to make tools that help people in any way, and I am always eager to learn.
+I am a Computer Science student at the **University of São Paulo**. I have experience with many programming languages and tools including **C, C++, Java, Python, Javascript (and Typescript), HTML, CSS, SQL, PostegreSQL, Django and React**. I like to learn and build things I would like to use myself. I also want to make tools that help people in any way, and I am always eager to learn.
 
 ## Skills
 
@@ -20,7 +20,7 @@ I have experience with projects using many different programming languages and t
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=linux,docker,postgres,react)
+![Tools](https://skillicons.dev/icons?i=linux,docker,postgres,react,django)
 
 ### Stats
 
