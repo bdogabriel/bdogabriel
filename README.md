@@ -16,11 +16,11 @@ I have experience with projects using many different programming languages and t
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=c,cpp,java,py,php,js,ts,html,css)
+![Languages](https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css)
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=linux,docker,postgres,react,django)
+![Tools](https://skillicons.dev/icons?i=linux,docker,postgres,react,django,godot)
 
 ### Stats
 
