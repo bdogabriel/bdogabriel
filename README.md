@@ -20,7 +20,7 @@ I have experience with projects using many different programming languages and t
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=linux,docker,postgres,react,django,godot)
+![Tools](https://skillicons.dev/icons?i=linux,docker,postgres,react,django,godot,unity)
 
 ### Stats
 
